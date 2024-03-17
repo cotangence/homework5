@@ -22,4 +22,10 @@ https://github.com/cotangence/shvirtd-example-python/tree/main
 
 https://github.com/cotangence/shvirtd-example-python/tree/main
 
+Задача 6
 
+![image](https://github.com/cotangence/homework5/assets/160312212/e47cd430-ef3e-4ac2-9f44-5ef8c5553647)
+
+![image](https://github.com/cotangence/homework5/assets/160312212/b1c4cb7a-e84c-4ad9-bdd3-ffaea9eba54b)
+
+![image](https://github.com/cotangence/homework5/assets/160312212/b0f1a4b9-8939-4c77-8734-29d0b0627579)
