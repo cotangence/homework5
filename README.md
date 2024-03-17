@@ -18,4 +18,8 @@ https://github.com/cotangence/shvirtd-example-python/tree/main
 
 Задача 4
 
+![image](https://github.com/cotangence/homework5/assets/160312212/4304fcfa-d1fc-4b6d-a71d-0bb93ed77b33)
+
+https://github.com/cotangence/shvirtd-example-python/tree/main
+
 
