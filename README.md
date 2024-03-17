@@ -29,3 +29,11 @@ https://github.com/cotangence/shvirtd-example-python/tree/main
 ![image](https://github.com/cotangence/homework5/assets/160312212/b1c4cb7a-e84c-4ad9-bdd3-ffaea9eba54b)
 
 ![image](https://github.com/cotangence/homework5/assets/160312212/b0f1a4b9-8939-4c77-8734-29d0b0627579)
+
+Задача 6.1
+
+![image](https://github.com/cotangence/homework5/assets/160312212/0ea55858-0edd-4687-b9d8-bcb00b791d20)
+
+![image](https://github.com/cotangence/homework5/assets/160312212/a370b8cf-ec49-4505-a03a-08fd92c5766d)
+
+
